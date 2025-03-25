@@ -81,10 +81,12 @@ Result : The analysis provided actionable insights for understanding the factors
 
 Drive Link :
 
-[Click here to access the IMDB Movie Analysis Report](https://drive.google.com/file/d/1pd2gDXUw4SmrNULxRGpqI5j0GkBDVgn0/view?usp=sharing)
+[Click here to access the IMDB Movie Analysis PDF Report](https://drive.google.com/file/d/1pd2gDXUw4SmrNULxRGpqI5j0GkBDVgn0/view?usp=sharing)
 
 [Click here to access the Excel Dataset](https://docs.google.com/spreadsheets/d/1gtjCeY6VMr7u3A3GBv78SQIKw9E5GMh_/edit?usp=sharing&ouid=101204343036685814262&rtpof=true&sd=true)
 
 [Click here to access Power-point Presentation ](https://docs.google.com/presentation/d/1t8AI-BOaHYHUQDv5eWIRPhGaU_7cteJC/edit?usp=sharing&ouid=101204343036685814262&rtpof=true&sd=true)
 
 [Click here to access the Video Presentation ](https://drive.google.com/file/d/1GQNnkJHLkHs_US0glQ86GAJ5bP4kIC_S/view?usp=sharing)
+
+For detailed analysis and related files, refer to the PDF report provided in this repository.
