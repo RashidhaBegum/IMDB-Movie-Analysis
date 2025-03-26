@@ -59,7 +59,7 @@ Explore the relationship between movie budgets and their financial success.
 
 ### How to Proceed :
 
-1.Database Creation:  Begin by downloading the dataset provided for this project. Verify the data is ready for analysis by ensuring its structure and format align with the project's requirements. 
+1.Data Collection :  Begin by downloading the dataset provided for this project. Verify the data is ready for analysis by ensuring its structure and format align with the project's requirements. 
 
 2.Perform Analysis:  Use Excel to analyze the data and extract meaningful insights related to the project's goals.  
 
