@@ -57,7 +57,7 @@ Explore the relationship between movie budgets and their financial success.
 
 - Task: Analyze the correlation between movie budgets and gross earnings, and identify the movies with the highest profit margin.
 
-How to Proceed :
+### How to Proceed :
 
 1.Database Creation:  Begin by downloading the dataset provided for this project. Verify the data is ready for analysis by ensuring its structure and format align with the project's requirements. 
 
@@ -65,7 +65,7 @@ How to Proceed :
 
 3.Report Preparation: Summarize your analysis and insights in a clear and concise PDF report, focusing on effectively communicating your findings and recommendations.  
 
-Project Details : 
+### Project Details : 
 
 Project Description : This project analyzes IMDb movie data to uncover factors influencing high ratings, such as genre, director,budget,and so on 
 
@@ -79,7 +79,7 @@ Insights : The analysis identifies patterns in IMDb ratings, such as how genres,
 
 Result : The analysis provided actionable insights for understanding the factors that contribute to a movie’s success, offering valuable guidance for industry decision-making.  
 
-Drive Link :
+### Drive Link :
 
 [Click here to access the IMDB Movie Analysis Report PDF](https://drive.google.com/file/d/1pd2gDXUw4SmrNULxRGpqI5j0GkBDVgn0/view?usp=sharing)
 
